@@ -1,2 +1,3 @@
 # SuperM3u8
-A m3u8 downloader developed by flutter
+A chrome extension to download m3u8 videos with custom params.
+
